@@ -1,0 +1,6 @@
+@Hex.Tpl.Project.Adapter.Inbound_HostAddress = http://localhost:5271
+
+GET {{Hex.Tpl.Project.Adapter.Inbound_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
