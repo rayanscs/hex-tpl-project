@@ -1,1 +1,11 @@
-<Solution />
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Hex.Tpl.Project.Adapter.Inbound/Hex.Tpl.Project.Adapter.Inbound.csproj" />
+    <Project Path="src/Hex.Tpl.Project.Adapter.Outbound/Hex.Tpl.Project.Adapter.Outbound.csproj" />
+    <Project Path="src/Hex.Tpl.Project.Application/Hex.Tpl.Project.Application.csproj" />
+    <Project Path="src/Hex.Tpl.Project.Domain/Hex.Tpl.Project.Domain.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Hex.Tpl.Project.Tests/Hex.Tpl.Project.Tests.csproj" />
+  </Folder>
+</Solution>
